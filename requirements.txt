@@ -1,0 +1,29 @@
+# Core Libraries
+streamlit==1.40.0
+vaderSentiment==3.3.2
+requests==2.32.3
+
+# NLP and AI Enhancements
+text2emotion==0.0.5
+transformers==4.46.1
+torch==2.5.1
+sentencepiece==0.2.0
+
+# Utility and Environment Handling
+python-dotenv==1.0.1
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualization (for mood tracking or graphs)
+matplotlib==3.9.2
+plotly==5.24.1
+
+# Optional Voice Interaction (works well on Mac)
+pyttsx3==2.90
+SpeechRecognition==3.10.4
+pyaudio==0.2.14
+
+# Mac M2 Compatibility Helpers
+protobuf==5.28.3
+tqdm==4.67.1
+typing_extensions==4.12.2

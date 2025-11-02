@@ -1,0 +1,38 @@
+{
+  "positive": [
+    "Keep going, you're doing great! 🌟",
+    "Celebrate small wins today — you deserve it! 🥳",
+    "Your smile can brighten someone’s day. 😊",
+    "Be proud of how far you’ve come. 💪"
+  ],
+  "negative": [
+    "Remember, it’s okay to feel down. Take a walk or talk to someone you trust. 💙",
+    "You are not alone — every emotion you feel is valid. 🤍",
+    "Try journaling your thoughts — it can lighten the mind. 🖊️",
+    "Breathe deeply and remind yourself this moment will pass. 🌿"
+  ],
+  "neutral": [
+    "Pause for a moment. Breathe. You're doing okay. ✨",
+    "Take a short break — hydrate, stretch, or step outside for fresh air. 💧",
+    "Stability is powerful. You’re doing just fine. 🌼",
+    "Reflect on one thing that went well today. 🌈"
+  ],
+  "anxious": [
+    "Try the 4-7-8 breathing technique to calm your nerves. 🌬️",
+    "Focus on what you can control, and release the rest. 🕊️",
+    "Take a short walk — movement helps reduce anxiety. 🚶‍♀️",
+    "Listen to calming music and let your body relax. 🎵"
+  ],
+  "angry": [
+    "It’s okay to feel anger — try expressing it through writing, not shouting. 📝",
+    "Take 10 deep breaths before reacting. 💨",
+    "Channel your energy into exercise or creativity. 🎨",
+    "Anger passes, but calmness stays. Stay grounded. 🌳"
+  ],
+  "tired": [
+    "You deserve rest. Put down your phone and close your eyes for a bit. 😴",
+    "Drink some water and stretch — even small breaks help. 💧",
+    "Your body is asking for care. Listen to it. 🌙",
+    "Resting doesn’t mean giving up — it means recharging. 🔋"
+  ]
+}
